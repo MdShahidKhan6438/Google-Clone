@@ -56,7 +56,7 @@ Start the server
   npm run start
 ```
  # Contact
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/avinash-chandra-12540020b/`
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-chandra-12540020b/)`https://www.linkedin.com/in/md-shahid-khan-08a995227/`
  
  
-<img align="left" alt="gmail" width="26px" src="./google-image/readmeAssets/gmail.webp" /> `avinashchandrabarik01@gmail.com`
+<img align="left" alt="gmail" width="26px" src="./google-image/readmeAssets/gmail.webp" /> `mdshahidkhan009@gmail.com`
